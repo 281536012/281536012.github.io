@@ -1,0 +1,11 @@
+{"sites":[
+{"key":"drpy_js_好趣网","name":"直播 | 好趣网[js]","protocol":"DRPY_Crack","ext":"https://281536012.github.io/好趣网.js"},
+{"key":"drpy_js_豆瓣","name":"搜索 | 豆瓣[js]","protocol":"DRPY_Crack","ext":"https://281536012.github.io/豆瓣.js","searchable":1},
+{"key":"drpy_js_低端影视","name":"影视 | 低端影视[js]","protocol":"DRPY_Crack","ext":"https://281536012.github.io/低端影视.js","searchable":1},
+{"key":"drpy_js_厂长资源","name":"影视 | 厂长资源[js]","protocol":"DRPY_Crack","ext":"https://281536012.github.io/厂长资源.js"},
+{"key":"drpy_js_大师兄影视","name":"起飞 | 大师兄影视[js]","protocol":"DRPY_Crack","ext":"https://281536012.github.io/大师兄影视.js"},
+{"key":"drpy_js_网飞","name":"影视 | 网飞.TV[js]","protocol":"DRPY_Crack","ext":"https://281536012.github.io/网飞.js"},
+{"key":"drpy_js_吼吼","name":"影视 | 吼吼[飞][js]","protocol":"DRPY_Crack","ext":"https://281536012.github.io/吼吼.js"},
+{"key":"MV_vod","name":"MV | 卡拉OK","protocol":"VOD","ext":"https://tvbox-mv--leosam2048.repl.co/mv/vod"},
+{"key":"drpy_js_测试源","name":"影视 | 测试源[js]","protocol":"DRPY_Crack","ext":"https://281536012.github.io/测试源.js"},
+]}

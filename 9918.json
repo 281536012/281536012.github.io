@@ -1,10 +1,10 @@
 {
-"spider":"./fm.nogo.20231114-2003.jar;md5;029f704677c51eb527a55796173cf82b",
-"lives":[{"name":"初秋语","type":0,"url":"./listx.txt"},
+"spider":"https://281536012.github.io/fm.nogo.20231114-2003.jar;md5;029f704677c51eb527a55796173cf82b",
+"lives":[{"name":"初秋语","type":0,"url":"https://281536012.github.io/listx.txt"},
 {"name":"YanG","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u"},
 {"name":"atsushi","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/atsushi444/iptv-epg/main/Adult.m3u"},
 {"name":"小武哥","type":0,"url":"https://qu.ax/PEHy.txt"},
-{"name":"AV","type":0,"url":"./livex.m3u"}
+{"name":"AV","type":0,"url":"https://281536012.github.io/livex.m3u"}
 ],
 "wallpaper":"https://liu.chuqiuyu.tk",
 "sites":[

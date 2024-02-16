@@ -1,0 +1,9 @@
+{
+	"alist_server": "http://linzz.asuscomm.com:5344",
+	"alist_token": "alist-e2640dac-a5fc-48b5-ad82-958a90bb44bccqlBiHEoI768Qnkaekpx7R4uoMAcD2wCSbuEkq4So1jzgzFq149eoQTFRF6gfyeU",
+	"alist_tvbox_server": "http://linzz.asuscomm.com:4567",
+	"alist_tvbox_username": "admin",
+	"alist_tvbox_password": "Lin262471",
+	"my_share_path": "/🈴我的阿里分享",
+	"params": { "/abc": { "password": "123" }, "/abc/abc": { "password": "123" } }
+}
